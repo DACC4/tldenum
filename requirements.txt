@@ -1,0 +1,5 @@
+python-whois
+pyyaml
+requests
+tqdm
+dnspython
